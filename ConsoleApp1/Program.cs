@@ -13,6 +13,7 @@ internal class asd1
     int s = 4;
     int y = 119;
     int y2 = 0;
+    int bn = 0;
     int h = 8;
     public static void sf()
     {
