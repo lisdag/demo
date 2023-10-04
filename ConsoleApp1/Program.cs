@@ -10,7 +10,7 @@ internal class asd1
     int a=0;
     int b = 3;
     int c = 4;
-    int s = 0;
+    int s = 4;
     public static void sf()
     {
         Task hj=new Task(new Action(() => { Console.WriteLine("45678"); }));
