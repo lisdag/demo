@@ -9,6 +9,7 @@ internal class asd1
     public static extern int asd();
     int a=0;
     int b = 3;
+    int c = 2;
     public static void sf()
     {
         Task hj=new Task(new Action(() => { Console.WriteLine("45678"); }));
