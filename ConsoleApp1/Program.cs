@@ -15,6 +15,7 @@ internal class asd1
     int y2 = 0;
     int bn = 0;
     int h = 8;
+    int hj = 9;
     public static void sf()
     {
         Task hj=new Task(new Action(() => { Console.WriteLine("45678"); }));
